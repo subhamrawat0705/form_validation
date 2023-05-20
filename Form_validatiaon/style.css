@@ -1,0 +1,39 @@
+ body{
+    padding: 10px 50px;
+ }
+ body h1{
+    background-color: black;
+    color: aliceblue;
+    width: 40%;
+    padding-left: 30px;
+ }
+ .formdesign{
+    font-size: 20px;
+ }
+
+ .formdesign input{
+    width: 50%;
+    padding: 12px 20px;
+    border: 1px solid black;
+    margin: 14px;
+    border-radius: 4px;
+    font-size: 15px;
+ }
+ 
+ .formerror{
+    color: red;
+ }
+ .but{
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;  
+    font-size: 25px;
+    margin: 22px 10px;
+    border-color: black;
+ }
+
+ .but:hover{
+    background-color: black;
+    color: beige;
+    border: none;
+ }
